@@ -1,0 +1,13 @@
+{
+  "login_credentials": {
+    "username": "your-name2@email.com",
+    "password": "your!password.is§save_in:here"
+  },
+  "settings": {
+    "max_searches": 60,
+    "search_delay": {
+      "min_delay": 10,
+      "max_delay": 20
+    }
+  }
+}
